@@ -11,3 +11,4 @@ there initially is not easy and when you have updates to the schema it is even m
 data while adding new columns / tables etc... This will allow you to define the schema and the code will take care of creating
 the db/tables/columns for you.
 
+Currently will only add new objects (tables/columns/indexes) but will not delete nor update items
